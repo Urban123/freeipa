@@ -1,2 +1,2 @@
-# freeipa
-Change password in Freeipa using Kerberos
+# FreeIPA Example
+Change password in Freeipa using Kerberos.
